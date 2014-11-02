@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Josh Meek
 tagline:          'Software Developer'
 description:      'Development journal, project repository, and occasional blog of <a href="https://twitter.com/JoshM33k" target="_blank">@JoshM33k</a>.'
-url:              http://joshmeek.com
+url:              http://joshM33k.github.io/blog
 baseurl:          /
 
 author:
