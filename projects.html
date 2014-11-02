@@ -1,0 +1,23 @@
+---
+layout: page
+title: "Projects"
+---
+
+<div class="page">
+  <p class="lead">All of my projects will go here. <a href="{{ site.baseurl }}">Head back home</a> and get back to work.</p>
+  
+    {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "project" %}
+            <a href="{{ node.url }}">{{ node.title }}</a>
+            {% if node.description != null %}
+              <p class="message">
+                {{node.description}}
+              </p>
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+  
+</div>
