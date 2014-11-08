@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Josh Meek
+title:            'Josh Meek'
 tagline:          'Software Developer'
 description:      'Development journal, project repository, and occasional blog of <a href="https://twitter.com/JoshM33k" target="_blank">@JoshM33k</a>.'
-url:              http://joshM33k.github.io/blog
-baseurl:          ''
+url:              'http://joshM33k.github.io'
+baseurl:          '/'
 
 author:
   name:           'Josh Meek'
@@ -23,4 +23,4 @@ paginate:         5
 version:          0.1.0
 
 github:
-  repo:           https://github.com/JoshM33k/blog
+  repo:           https://github.com/JoshM33k/joshM33k.github.io
