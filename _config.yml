@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            'Josh Meek'
 tagline:          'Software Developer'
 description:      'Development journal, project repository, and occasional blog of <a href="https://twitter.com/JoshM33k" target="_blank">@JoshM33k</a>.'
-url:              'http://joshM33k.github.io'
-baseurl:          '/'
+url:              http://joshM33k.github.io
+baseurl:          /
 
 author:
   name:           'Josh Meek'
