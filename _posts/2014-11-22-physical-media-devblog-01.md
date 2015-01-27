@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DevBlog 01 - Tracking Music
+title: Physical.media DevBlog 01 - Tracking Music
 ---
 So, I'm working on an album release website after not really being pleased with any that were out there currently. [Album Reminder](http://www.albumreminder.com/) used to be pretty decent, but it has been broken for the past few weeks (only 1-2 new albums have been added). I tried emailing the developer and never heard back.
 
